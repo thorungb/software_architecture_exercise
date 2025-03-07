@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "hw1-database",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "hw1-art",
+        "completed": true
+    }
+]
